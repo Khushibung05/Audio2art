@@ -1,2 +1,2 @@
 # Audio2art
-Transforming voice prompts into visual creations
+Audio2Art is an advanced project powered by cutting-edge AI technology and transformer models designed to convert audio prompts into stunning visual representations. This innovative system bridges the gap between auditory and visual experiences, providing users with the ability to generate images from voice descriptions effortlessly. Audio2Art is versatile and can be utilized across various scenarios, offering creative solutions tailored to different user needs.
